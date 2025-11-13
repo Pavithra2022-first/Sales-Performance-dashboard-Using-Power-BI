@@ -7,8 +7,11 @@ The objective of this analysis is to study sales data for June-July 2022, identi
 ________________________________________
 2. Data Overview
 •	Data Source: Sample Data 2.xls
+
 •	Two Tables : Product Language , Sales Data.
+
 •	Columns: User ID, Product Code, Payment Status, Source, Product Amount, Payment Mode, Currency Code,Coupon code, Transaction Bank, Product Language
+
 •	Total Records: 9514
 ________________________________________
 3. Data Preparation
