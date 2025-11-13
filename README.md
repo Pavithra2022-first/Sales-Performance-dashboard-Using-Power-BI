@@ -13,7 +13,7 @@ ________________________________________
 ________________________________________
 3. Data Preparation
 •	I used MS Power BI for data cleaning , Transformation and visualisation .
-•	Handled null values in Coupon Code, Payment Mode, and Transaction Bank.
+	Handled null values in Coupon Code, Payment Mode, and Transaction Bank.
 •	Clean and Standardized date and currency formats.
 •	Added new calculated columns: Lead Registered Month, Lead Registered Time, Sales Month.
 •	Created DAX measures for:
@@ -25,7 +25,7 @@ o	Average Order Value
 •	Added filters for Top performing products and Coupon Codes .
 •	Intiated Key performance indicator for Sales by Month.
 •	Merge the two Tables Product Language and Sales Data .
-4. Key Insights
+5. Key Insights
 Overall Performance
 •	Total Orders: 9514
 •	Paid Orders: 1691
