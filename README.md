@@ -1,6 +1,6 @@
 # Sales-Performance-dashboard
 This Project contains Sales Dashboard creation using Power BI . ETL Process and DAX functions are used for Data Analysing and Processing and Power BI used for Dashboard Creation. 
-                                             
+                                     
 1. Objective
 The objective of this analysis is to study sales data for June-July 2022, identify key trends, track revenue performance, and provide actionable insights to improve overall sales and conversion rates.
 ________________________________________
